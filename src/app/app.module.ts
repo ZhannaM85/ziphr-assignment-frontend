@@ -2,6 +2,7 @@ import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { NewToDoComponent } from './todos/new-to-do/new-to-do.component';
 
 @NgModule({
   declarations: [
